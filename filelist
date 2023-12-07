@@ -1,0 +1,4 @@
+./src/decode38.sv
+./src/mux81.sv
+./src/reg_mem.sv
+./src/regfile.sv
